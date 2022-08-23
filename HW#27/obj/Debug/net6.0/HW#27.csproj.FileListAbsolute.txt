@@ -1,0 +1,15 @@
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\bin\Debug\net6.0\HW#27.exe
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\bin\Debug\net6.0\HW#27.deps.json
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\bin\Debug\net6.0\HW#27.runtimeconfig.json
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\bin\Debug\net6.0\HW#27.dll
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\bin\Debug\net6.0\HW#27.pdb
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.csproj.AssemblyReference.cache
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.AssemblyInfoInputs.cache
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.AssemblyInfo.cs
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.csproj.CoreCompileInputs.cache
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.dll
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\refint\HW#27.dll
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.pdb
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\HW#27.genruntimeconfig.cache
+C:\DEV\C#_Seminar_4\HomeWork4\HW#27\obj\Debug\net6.0\ref\HW#27.dll
